@@ -1,17 +1,46 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c9bc500c-c493-434f-a73b-935a8e6c7cc6" /># 🏋️‍♂️ Gym Management System
 
-A complete **Gym Management System** built with Django and React.  
-It helps gym owners manage members, workouts, subscriptions, and payments with ease.
+# 🏋️‍♂️ GymMaster – Modern Gym Management Frontend
 
----
+**A beautiful, fully responsive gym management dashboard built with React.js + Tailwind CSS**  
+Ready in 5 minutes – just connect to any backend API (Django, Node.js, Laravel, Supabase, Firebase…)
 
-## 🚀 Features
-- 🏋️ Track workouts and attendance  
+![GymMaster Preview](https://raw.githubusercontent.com/AdamyoussefEg/GymMaster/main/public/screenshot.png)
+*(Replace the image above with your actual screenshot)*
 
----
+## 🚀 Live Demo
+[![Netlify](https://img.shields.io/badge/Live_Demo-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://gymmaster-demo.netlify.app)
+*(Update the link after deploying)*
+
+## ✨ Features
+- Clean & modern dashboard  
+- Members management (CRUD)  
+- Trainers dashboard  
+- Workout tracker & schedule  
+- Subscription plans & payment status  
+- Attendance check-in system  
+- Fully responsive (Mobile → Desktop)  
+- Dark/Light mode ready  
+- Tailwind CSS + Heroicons  
+- Vite for blazing-fast dev server  
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (or React if included)  
+| Layer      | Technology              |
+|------------|-------------------------|
+| Frontend   | React 18 + Vite         |
+| Styling    | Tailwind CSS            |
+| Icons      | Heroicons               |
+| Routing    | React Router v6         |
+| State      | React Hooks + Context   |
+| Build Tool | Vite                    |
+
+## ⚡ Quick Start (30 seconds)
+
+```bash
+git clone https://github.com/AdamyoussefEg/GymMaster.git
+cd GymMaster
+npm install
+npm run dev
 
 ---
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea75046f-5496-4bd9-8001-b1f21ef4b83f" />
