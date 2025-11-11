@@ -15,24 +15,17 @@ Ready in 5 minutes – just connect to any backend API (Django, Node.js, Laravel
 ## ✨ Features
 - Clean & modern dashboard  
 - Members management (CRUD)  
-- Trainers dashboard  
-- Workout tracker & schedule  
-- Subscription plans & payment status  
+- Workout tracker & schedule 
 - Attendance check-in system  
 - Fully responsive (Mobile → Desktop)  
-- Dark/Light mode ready  
 - Tailwind CSS + Heroicons  
-- Vite for blazing-fast dev server  
 
 ## 🛠️ Tech Stack
 | Layer      | Technology              |
 |------------|-------------------------|
 | Frontend   | React 18 + Vite         |
-| Styling    | Tailwind CSS            |
-| Icons      | Heroicons               |
-| Routing    | React Router v6         |
-| State      | React Hooks + Context   |
-| Build Tool | Vite                    |
+| Styling    |  CSS                    |
+
 
 ## ⚡ Quick Start (30 seconds)
 
