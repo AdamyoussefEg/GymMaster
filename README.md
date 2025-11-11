@@ -5,8 +5,6 @@
 **A beautiful, fully responsive gym management dashboard built with React.js + Tailwind CSS**  
 Ready in 5 minutes – just connect to any backend API (Django, Node.js, Laravel, Supabase, Firebase…)
 
-![GymMaster Preview](https://raw.githubusercontent.com/AdamyoussefEg/GymMaster/main/public/screenshot.png)
-*(Replace the image above with your actual screenshot)*
 
 ## 🚀 Live Demo
 ![GymMaster Preview](https://raw.githubusercontent.com/AdamyoussefEg/GymMaster/main/public/screenshot.png)
