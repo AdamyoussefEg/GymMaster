@@ -9,8 +9,7 @@ Ready in 5 minutes – just connect to any backend API (Django, Node.js, Laravel
 *(Replace the image above with your actual screenshot)*
 
 ## 🚀 Live Demo
-[![Netlify](https://img.shields.io/badge/Live_Demo-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://gymmaster-demo.netlify.app)
-*(Update the link after deploying)*
+![GymMaster Preview](https://raw.githubusercontent.com/AdamyoussefEg/GymMaster/main/public/screenshot.png)
 
 ## ✨ Features
 - Clean & modern dashboard  
